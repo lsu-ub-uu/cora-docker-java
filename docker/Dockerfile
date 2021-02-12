@@ -1,4 +1,4 @@
-FROM  openjdk:14-buster
+FROM  openjdk:15-buster
 
 #https://dzone.com/articles/build-docker-image-from-maven
 #To compile and build the Docker image locally:

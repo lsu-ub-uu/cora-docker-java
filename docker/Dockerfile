@@ -1,1 +1,1 @@
-FROM eclipse-temurin:25_36-jdk-alpine
+FROM eclipse-temurin:25-jdk-alpine
